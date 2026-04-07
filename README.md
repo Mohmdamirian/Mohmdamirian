@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Mohmdamirian
-- 💻 I'm university student 
-- 👀 I’m interested in AI
-- 😄 I hope we can learn so many things together
-<!---
-Mohmdamirian/Mohmdamirian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Mo Amirian.
+
+I am a recent MSc Artificial Intelligence graduate with a background in Computer Engineering. I am passionate about Data Science, Data Analysis, and AI, and I enjoy building practical projects, learning continuously, and using data to solve real-world problems.
+
+- Data Analysis
+- Data Science
+- Machine Learning
+- Python and SQL
+- Data Cleaning and Preprocessing
+- Data Visualisation
+- Predictive Modelling
+- Exploratory Data Analysis
+- AI and Real-World Problem Solving
